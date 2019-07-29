@@ -1,22 +1,12 @@
-## Readme
-
----
-title: JSON and XML
-layout: post
-weight: 10
-hidden: true
----
-​
-JSON and XML Lesson Plan
-===
+## JSON and XML Lesson Plan
 ​
 ​
 **Course**: Data Science   <br/>
 **Mod**: Module 2                    <br/>
 **Topic**: JSON and XML  <br/>
 **Amount of time**: 1 hour <br/>
-**Author**: Victor Geislinger
-Ported from the ds-lesson-starters repository [here](https://github.com/MrGeislinger/flatiron-school-data-science-curriculum-resources/tree/master/DataEngineering/JSONAndXML). 
+**Author**: Victor Geislinger  
+Ported from Vcitor's data science repo [here](https://github.com/MrGeislinger/flatiron-school-data-science-curriculum-resources/tree/master/DataEngineering/JSONAndXML). 
 ​
 ​
 ***
