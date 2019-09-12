@@ -6,7 +6,7 @@
 **Topic**: JSON and XML  <br/>
 **Amount of time**: 1 hour <br/>
 **Author**: Victor Geislinger  
-Ported from Vcitor's data science repo [here](https://github.com/MrGeislinger/flatiron-school-data-science-curriculum-resources/tree/master/DataEngineering/JSONAndXML). 
+Ported from Victor's data science repo [here](https://github.com/MrGeislinger/flatiron-school-data-science-curriculum-resources/tree/master/DataEngineering/JSONAndXML). 
 ​
 ​
 ***
